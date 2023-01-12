@@ -19,6 +19,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		806303712970249200FF4925 /* swift_Closures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_Closures.swift; sourceTree = "<group>"; };
 		8068EC33296D12AF00E758E2 /* swift_ControlFlow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_ControlFlow.swift; sourceTree = "<group>"; };
 		80CFFFF9296E815A00D09077 /* swift_Functions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_Functions.swift; sourceTree = "<group>"; };
 		80F1DBF8296AA886002561B8 /* swift_Language */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = swift_Language; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -57,6 +58,7 @@
 		80F1DBFA296AA886002561B8 /* swift_Language */ = {
 			isa = PBXGroup;
 			children = (
+				806303712970249200FF4925 /* swift_Closures.swift */,
 				8068EC33296D12AF00E758E2 /* swift_ControlFlow.swift */,
 				80F1DBFB296AA886002561B8 /* swift_CollectionTypes.swift */,
 				80F40701296B9F0300117E56 /* swift_BasicOperation.swift */,
