@@ -26,6 +26,7 @@
 		80F1DBFB296AA886002561B8 /* swift_CollectionTypes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_CollectionTypes.swift; sourceTree = "<group>"; };
 		80F40700296B9F0300117E56 /* swift_Strings&Characters.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "swift_Strings&Characters.swift"; sourceTree = "<group>"; };
 		80F40701296B9F0300117E56 /* swift_BasicOperation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = swift_BasicOperation.swift; sourceTree = "<group>"; };
+		80F46A292972ADB20047E544 /* swift_Enumerations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_Enumerations.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +65,7 @@
 				80F40701296B9F0300117E56 /* swift_BasicOperation.swift */,
 				80F40700296B9F0300117E56 /* swift_Strings&Characters.swift */,
 				80CFFFF9296E815A00D09077 /* swift_Functions.swift */,
+				80F46A292972ADB20047E544 /* swift_Enumerations.swift */,
 			);
 			path = swift_Language;
 			sourceTree = "<group>";
