@@ -20,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		800F5BE02973A8AB00300C0E /* swift_Classes&Structures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "swift_Classes&Structures.swift"; sourceTree = "<group>"; };
+		8024831A2976509D002FA93C /* swift_Methods.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_Methods.swift; sourceTree = "<group>"; };
 		806303712970249200FF4925 /* swift_Closures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_Closures.swift; sourceTree = "<group>"; };
 		8068EC33296D12AF00E758E2 /* swift_ControlFlow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_ControlFlow.swift; sourceTree = "<group>"; };
 		80CF11692975382B00A9E22A /* swift_Properties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_Properties.swift; sourceTree = "<group>"; };
@@ -70,6 +71,7 @@
 				80F46A292972ADB20047E544 /* swift_Enumerations.swift */,
 				800F5BE02973A8AB00300C0E /* swift_Classes&Structures.swift */,
 				80CF11692975382B00A9E22A /* swift_Properties.swift */,
+				8024831A2976509D002FA93C /* swift_Methods.swift */,
 			);
 			path = swift_Language;
 			sourceTree = "<group>";
