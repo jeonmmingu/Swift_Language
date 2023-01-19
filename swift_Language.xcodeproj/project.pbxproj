@@ -26,6 +26,7 @@
 		8068EC33296D12AF00E758E2 /* swift_ControlFlow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_ControlFlow.swift; sourceTree = "<group>"; };
 		80CF11692975382B00A9E22A /* swift_Properties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_Properties.swift; sourceTree = "<group>"; };
 		80CFFFF9296E815A00D09077 /* swift_Functions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_Functions.swift; sourceTree = "<group>"; };
+		80D8B1BD2978E9F6002AD059 /* swift_Inheritance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_Inheritance.swift; sourceTree = "<group>"; };
 		80F1DBF8296AA886002561B8 /* swift_Language */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = swift_Language; sourceTree = BUILT_PRODUCTS_DIR; };
 		80F1DBFB296AA886002561B8 /* swift_CollectionTypes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_CollectionTypes.swift; sourceTree = "<group>"; };
 		80F40700296B9F0300117E56 /* swift_Strings&Characters.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "swift_Strings&Characters.swift"; sourceTree = "<group>"; };
@@ -74,6 +75,7 @@
 				80CF11692975382B00A9E22A /* swift_Properties.swift */,
 				8024831A2976509D002FA93C /* swift_Methods.swift */,
 				802483412977ADA6002FA93C /* swift_Subscripts.swift */,
+				80D8B1BD2978E9F6002AD059 /* swift_Inheritance.swift */,
 			);
 			path = swift_Language;
 			sourceTree = "<group>";
