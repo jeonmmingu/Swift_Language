@@ -6,6 +6,10 @@
 	objectVersion = 56;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		80030F6C297FB4570006012A /* swift_OptionalChaining.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80030F6B297FB4570006012A /* swift_OptionalChaining.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		80F1DBF6296AA886002561B8 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -19,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		80030F6B297FB4570006012A /* swift_OptionalChaining.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_OptionalChaining.swift; sourceTree = "<group>"; };
 		800F5BE02973A8AB00300C0E /* swift_Classes&Structures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "swift_Classes&Structures.swift"; sourceTree = "<group>"; };
 		8024831A2976509D002FA93C /* swift_Methods.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_Methods.swift; sourceTree = "<group>"; };
 		802483412977ADA6002FA93C /* swift_Subscripts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_Subscripts.swift; sourceTree = "<group>"; };
@@ -80,6 +85,7 @@
 				80D8B1BD2978E9F6002AD059 /* swift_Inheritance.swift */,
 				80D8B1C8297A2E6B002AD059 /* swift_Initialization.swift */,
 				80CC21E6297B91A200A3D1D1 /* swift_Deinitialization.swift */,
+				80030F6B297FB4570006012A /* swift_OptionalChaining.swift */,
 			);
 			path = swift_Language;
 			sourceTree = "<group>";
@@ -143,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				80030F6C297FB4570006012A /* swift_OptionalChaining.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
