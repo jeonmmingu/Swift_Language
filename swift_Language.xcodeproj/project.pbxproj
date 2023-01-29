@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		80030F6C297FB4570006012A /* swift_OptionalChaining.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80030F6B297FB4570006012A /* swift_OptionalChaining.swift */; };
+		80597A2F29866519004A68E0 /* swift_ErrorHandling.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80597A2E29866519004A68E0 /* swift_ErrorHandling.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +27,7 @@
 		800F5BE02973A8AB00300C0E /* swift_Classes&Structures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "swift_Classes&Structures.swift"; sourceTree = "<group>"; };
 		8024831A2976509D002FA93C /* swift_Methods.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_Methods.swift; sourceTree = "<group>"; };
 		802483412977ADA6002FA93C /* swift_Subscripts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_Subscripts.swift; sourceTree = "<group>"; };
+		80597A2E29866519004A68E0 /* swift_ErrorHandling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_ErrorHandling.swift; sourceTree = "<group>"; };
 		806303712970249200FF4925 /* swift_Closures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_Closures.swift; sourceTree = "<group>"; };
 		8068EC33296D12AF00E758E2 /* swift_ControlFlow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_ControlFlow.swift; sourceTree = "<group>"; };
 		80CC21E6297B91A200A3D1D1 /* swift_Deinitialization.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_Deinitialization.swift; sourceTree = "<group>"; };
@@ -86,6 +87,7 @@
 				80D8B1C8297A2E6B002AD059 /* swift_Initialization.swift */,
 				80CC21E6297B91A200A3D1D1 /* swift_Deinitialization.swift */,
 				80030F6B297FB4570006012A /* swift_OptionalChaining.swift */,
+				80597A2E29866519004A68E0 /* swift_ErrorHandling.swift */,
 			);
 			path = swift_Language;
 			sourceTree = "<group>";
@@ -149,7 +151,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				80030F6C297FB4570006012A /* swift_OptionalChaining.swift in Sources */,
+				80597A2F29866519004A68E0 /* swift_ErrorHandling.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
