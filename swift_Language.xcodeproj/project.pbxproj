@@ -6,10 +6,6 @@
 	objectVersion = 56;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		80597A2F29866519004A68E0 /* swift_ErrorHandling.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80597A2E29866519004A68E0 /* swift_ErrorHandling.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		80F1DBF6296AA886002561B8 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -151,7 +147,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				80597A2F29866519004A68E0 /* swift_ErrorHandling.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
