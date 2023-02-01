@@ -38,6 +38,7 @@
 		80F40700296B9F0300117E56 /* swift_Strings&Characters.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "swift_Strings&Characters.swift"; sourceTree = "<group>"; };
 		80F40701296B9F0300117E56 /* swift_BasicOperation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = swift_BasicOperation.swift; sourceTree = "<group>"; };
 		80F46A292972ADB20047E544 /* swift_Enumerations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_Enumerations.swift; sourceTree = "<group>"; };
+		80FA610B2989FE1300C040F3 /* swift_Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_Extension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +89,7 @@
 				80597A2E29866519004A68E0 /* swift_ErrorHandling.swift */,
 				80A77DD229874CB00007431A /* swift_TypeCasting.swift */,
 				80E8850E29889B2100D92F44 /* swift_NestedTypes.swift */,
+				80FA610B2989FE1300C040F3 /* swift_Extension.swift */,
 			);
 			path = swift_Language;
 			sourceTree = "<group>";
