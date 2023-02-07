@@ -35,6 +35,7 @@
 		80CFFFF9296E815A00D09077 /* swift_Functions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_Functions.swift; sourceTree = "<group>"; };
 		80D8B1BD2978E9F6002AD059 /* swift_Inheritance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_Inheritance.swift; sourceTree = "<group>"; };
 		80D8B1C8297A2E6B002AD059 /* swift_Initialization.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_Initialization.swift; sourceTree = "<group>"; };
+		80DFC2302991FABF002BB009 /* swift_MemorySafety.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_MemorySafety.swift; sourceTree = "<group>"; };
 		80E8850E29889B2100D92F44 /* swift_NestedTypes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_NestedTypes.swift; sourceTree = "<group>"; };
 		80F1DBF8296AA886002561B8 /* swift_Language */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = swift_Language; sourceTree = BUILT_PRODUCTS_DIR; };
 		80F1DBFB296AA886002561B8 /* swift_CollectionTypes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_CollectionTypes.swift; sourceTree = "<group>"; };
@@ -96,6 +97,7 @@
 				80C56D15298CC4B60063688F /* swift_Protocols.swift */,
 				80C6D09B298F4CE400F1A981 /* swift_Generic.swift */,
 				80C6D09D2990B77A00F1A981 /* swift_ARC.swift */,
+				80DFC2302991FABF002BB009 /* swift_MemorySafety.swift */,
 			);
 			path = swift_Language;
 			sourceTree = "<group>";
