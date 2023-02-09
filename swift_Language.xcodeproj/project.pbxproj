@@ -27,6 +27,7 @@
 		806303712970249200FF4925 /* swift_Closures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_Closures.swift; sourceTree = "<group>"; };
 		8068EC33296D12AF00E758E2 /* swift_ControlFlow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_ControlFlow.swift; sourceTree = "<group>"; };
 		807CB8002993280B001DFEE6 /* swift_AccessControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_AccessControl.swift; sourceTree = "<group>"; };
+		8087E9C02994C58C00A575EB /* swift_AdvancedOperators.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_AdvancedOperators.swift; sourceTree = "<group>"; };
 		80A77DD229874CB00007431A /* swift_TypeCasting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_TypeCasting.swift; sourceTree = "<group>"; };
 		80C56D15298CC4B60063688F /* swift_Protocols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_Protocols.swift; sourceTree = "<group>"; };
 		80C6D09B298F4CE400F1A981 /* swift_Generic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_Generic.swift; sourceTree = "<group>"; };
@@ -100,6 +101,7 @@
 				80C6D09D2990B77A00F1A981 /* swift_ARC.swift */,
 				80DFC2302991FABF002BB009 /* swift_MemorySafety.swift */,
 				807CB8002993280B001DFEE6 /* swift_AccessControl.swift */,
+				8087E9C02994C58C00A575EB /* swift_AdvancedOperators.swift */,
 			);
 			path = swift_Language;
 			sourceTree = "<group>";
